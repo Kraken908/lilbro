@@ -6,4 +6,4 @@
 ifconfig wlp10s0 down
 macchanger -a wlp10s0 
 ifconfig wlp10s0 up
-b
+
